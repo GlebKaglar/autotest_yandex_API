@@ -1,7 +1,7 @@
 # autotest_yandex_API
 Яндекс API автотест
 
-Stack: Python, Requests Pytest, POM
+Stack: Python, Requests, Pytest, POM
 
 *Предусловие:*
 * Авторизоваться в сервисе Yandex
